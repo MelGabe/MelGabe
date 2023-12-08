@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in Computer Science and in technology overall
+- 🌱 I’m currently studying Computing Management
 
 <!---
 MelGabe/MelGabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
